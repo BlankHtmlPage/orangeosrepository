@@ -1,0 +1,14 @@
+{
+    "commands": [
+        {
+            "command": "test",
+            "action": "print",
+            "message": "Hello, OrangeOS!"
+        },
+        {
+            "command": "test2",
+            "action": "print",
+            "message": "SIOGRHN"
+        }
+    ]
+}
